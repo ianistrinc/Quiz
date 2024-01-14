@@ -20,7 +20,7 @@ export default function Layout() {
                         variant="h4"
                         align="center"
                         sx={{ flexGrow: 1 }}>
-                        Quiz App
+                        Quiz++
                     </Typography>
                     <Button onClick={logout}>Logout</Button>
                 </Toolbar>

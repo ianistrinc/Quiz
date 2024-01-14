@@ -10014,11 +10014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\Web\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+      "projectUniqueName": "D:\\Uni\\Web\\Quiz++\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
       "projectName": "QuizAPI",
-      "projectPath": "D:\\Uni\\Web\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
+      "projectPath": "D:\\Uni\\Web\\Quiz++\\QuizAPI\\QuizAPI\\QuizAPI.csproj",
       "packagesPath": "C:\\Users\\instr\\.nuget\\packages\\",
-      "outputPath": "D:\\Uni\\Web\\Quiz-App-with-React-Asp.Net-Core-API-Material-UI\\QuizAPI\\QuizAPI\\obj\\",
+      "outputPath": "D:\\Uni\\Web\\Quiz++\\QuizAPI\\QuizAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

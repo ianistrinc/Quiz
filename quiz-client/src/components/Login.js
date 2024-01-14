@@ -55,7 +55,7 @@ export default function Login() {
             <Card sx={{ width: 400 }}>
                 <CardContent sx={{ textAlign: 'center' }}>
                     <Typography variant="h3" sx={{ my: 3 }}>
-                        Quiz App
+                        Quiz++
                     </Typography>
                     <Box sx={{
                         '& .MuiTextField-root': {
